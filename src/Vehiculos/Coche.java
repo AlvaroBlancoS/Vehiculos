@@ -1,7 +1,9 @@
 package Vehiculos;
 
 import java.util.ArrayList;
-
+/*
+ * @uthor Alvaro
+ */
 public class Coche {
 	
 	private ArrayList<Rueda> ruedas;

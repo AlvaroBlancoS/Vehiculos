@@ -1,5 +1,7 @@
 package Vehiculos;
-
+/*
+ * @uthor Alvaro
+ */
 public class Motor {
 	
 	private String marca;

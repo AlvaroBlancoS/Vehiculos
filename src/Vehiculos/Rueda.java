@@ -1,5 +1,7 @@
 package Vehiculos;
-
+/*
+ * @uthor Alvaro
+ */
 public class Rueda {
 
 	private String marca;
